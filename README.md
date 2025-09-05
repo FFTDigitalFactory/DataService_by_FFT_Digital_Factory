@@ -6,7 +6,7 @@ The FFT_DataService provides a reliable and efficient way to access production a
 
 - Communicates with the Siemens IIH Essentials OpenAPI (minimum version 2.2.0 required)
 
-- Provides a standardized gRPC/REST interface for downstream applications such as the FFT_DataBridge
+- Provides a standardized gRPC interface for downstream applications such as the FFT_DataBridge
 
 - Supplies both real-time values and historical data on request
 
