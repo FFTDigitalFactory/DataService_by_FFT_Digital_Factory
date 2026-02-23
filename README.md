@@ -37,3 +37,6 @@ The FFT_DataService is built with security and reliability in mind:
 - Keeps all logs and configurations local to the device
 
 **This ensures that production data remains protected within the factory environment and is only transferred to external systems if explicitly enabled through the FFT_DataBridge which covers all security aspects.**
+
+## Documentation
+[User Manual – FFT DataService](UserManual_DataService_V002.pdf)
