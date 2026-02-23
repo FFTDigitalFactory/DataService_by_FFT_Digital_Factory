@@ -12,14 +12,6 @@ The FFT DataService provides a reliable and efficient way to access production a
 
 - Automatically generates a device_list.json file containing all available requestable variables (excluding variables with source type "Static")
 
-- Allows optional configuration via config.toml for:
-
-  - Defining IIH entry points (plc_name, root_asset_id)
-
-  - Setting the gRPC server address (dataservice_host_address)
-
-  - Customizing logging (log level, console output, file path, log rotation)
-
 - Designed for scalability and flexibility, enabling efficient integration with Edge devices and applications
 
 ## Security
