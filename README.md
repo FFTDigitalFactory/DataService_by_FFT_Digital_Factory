@@ -1,6 +1,6 @@
 # Overview
 
-The FFT_DataService provides a reliable and efficient way to access production and process data from the Industrial Information Hub (IIH). It acts as a backend service for the FFT_DataBridge and is available as a free application in the Industrial Edge Marketplace. Running directly on the Edge Device, the DataService ensures secure and standardized access to both real-time and historical data from IIH.
+The FFT DataService provides a reliable and efficient way to access production and process data from the Industrial Information Hub (IIH). It acts as a backend service for the FFT_DataBridge and is available as a free application in the Industrial Edge Marketplace. Running directly on the Edge Device, the DataService ensures secure and standardized access to both real-time and historical data from IIH.
 
 ## Functionality
 
@@ -24,7 +24,7 @@ The FFT_DataService provides a reliable and efficient way to access production a
 
 ## Security
 
-The FFT_DataService is built with security and reliability in mind:
+The FFT DataService is built with security and reliability in mind:
 
 - Operates only on the local Edge Device
 
@@ -35,8 +35,6 @@ The FFT_DataService is built with security and reliability in mind:
 - Does not share or expose data to external networks
 
 - Keeps all logs and configurations local to the device
-
-**This ensures that production data remains protected within the factory environment and is only transferred to external systems if explicitly enabled through the FFT_DataBridge which covers all security aspects.**
 
 ## Documentation
 [User Manual – FFT DataService](UserManual_DataService_V002.pdf)
